@@ -14,7 +14,7 @@ public class EmailSender {
     public static void sendEmail(String emailBody) {
         // Email account credentials
         String username = "20220001121@students.cud.ac.ae";
-        String password = "Zxc@123123";
+        String password = "xxxxxx";
         // Sender and recipient email addresses
         String fromEmail = "20220001121@students.cud.ac.ae";
         String toEmail = "20220001121@students.cud.ac.ae";
